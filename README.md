@@ -1,16 +1,9 @@
 # flutter_unicons_gallery
 
-A new Flutter project.
+<img src="./assets/images/hero.png" alt="logo of flutter_unicons repository"></br>
 
-## Getting Started
+Gallery app for [flutter_unicons library](https://github.com/charles9904/vue-unicons)
 
-This project is a starting point for a Flutter application.
+## Download
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Download the gallery app [here](https://github.com/charles9904/flutter_unicons_gallery/releases/tag/Flutter_unicons) .
