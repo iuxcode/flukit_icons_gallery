@@ -6,4 +6,4 @@ Gallery app for [flutter_unicons library](https://github.com/charles9904/vue-uni
 
 ## Download
 
-Download the gallery app [here](https://github.com/charles9904/flutter_unicons_gallery/releases/tag/Flutter_unicons) .
+Download the gallery app using [google drive](https://drive.google.com/.../1SNAMawJttsGmDknSPIB.../view...) or get the apks [here](https://github.com/charles9904/flutter_unicons_gallery/releases/tag/Flutter_unicons) .
