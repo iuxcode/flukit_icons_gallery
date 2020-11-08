@@ -1,0 +1,20 @@
+name: flutter_unicons_gallery
+description: gallery for flutter_unicons library
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_unicons:
+    path: /home/charlot/Dev/projects/me/flutter_unicons
+  flutter_screenutil: ^3.2.0
+  google_fonts: ^1.1.1
+  recase: ^3.0.0
+  url_launcher: ^5.7.10
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
