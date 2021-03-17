@@ -7,8 +7,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_unicons:
-    path: /home/charlot/Dev/projects/me/flutter_unicons
+  flutter_unicons: ^0.0.3
   flutter_screenutil: ^3.2.0
   google_fonts: ^1.1.1
   recase: ^3.0.0
